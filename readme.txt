@@ -51,8 +51,24 @@ will see it and get some enjoyment from it.
 
 Hope you have fun!
 
-Here's a video of it in action!
+
+
+Here are videos of it in action!  
+
+Beware the file sizes.  These are download links 
+instead of streaming links because streamable 
+bitrates compress too much to capture the details.
 
 python flower.py -R 250 -C 250 -psize 2
 compressed to crf 30 using libx264 (87MB)
 https://drive.google.com/uc?export=download&id=0B_22WXHykI37ZGpGUUt0OVhzS0E
+
+python flower.py -R 500 -C 500 -psize 1
+compressed to crf 26 using libx264 (359MB)
+https://drive.google.com/uc?export=download&id=0B_22WXHykI37MWgyNkI0M3UzRzQ
+
+Both of these videos are compressed and are
+visibly artifacted and less sharp than the
+original visualization.  Lots of small dots
+flying around is a difficult scenario for any
+compression algorithm.
