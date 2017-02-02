@@ -20,7 +20,7 @@ I run linux; not sure if everything works
 properly on other operating systems.
 
 There is only one python script that can be run --
-basic.py.  It has a few optional 
+flower.py.  It has a few optional 
 command line arguments that may be useful.
   -R int: how many particles per grid row
   -C int: how many particles per grid column
