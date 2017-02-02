@@ -55,4 +55,4 @@ Here's a video of it in action!
 
 python flower.py -R 250 -C 250 -psize 2
 compressed to crf 30 using libx264
-https://drive.google.com/open?id=0B_22WXHykI37ZGpGUUt0OVhzS0E
+https://drive.google.com/uc?export=download&id=0B_22WXHykI37ZGpGUUt0OVhzS0E
