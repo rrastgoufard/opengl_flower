@@ -30,10 +30,10 @@ command line arguments that may be useful.
 
 If you have a weak gpu, you may want to consider
 specifying -R 250 -C 250 instead of the default
--R 1000 -C 1000.  My surface pro 1 can 
+-R 500 -C 500.  My surface pro 1 can 
 do 250 per row/col at 60 fps, but it cannot
-do 1000.  Another consideration is to lower the
-fps from the default of 60.
+do 500.  Another consideration is to lower the
+fps from the default of unconstrained.
 
 Once the program is running, you can interact
 with it in a few ways.  The most obvious is 
